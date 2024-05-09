@@ -16,7 +16,7 @@ This Python script is designed for extracting problems from VJudge with VJudge f
 #### How to Run in powerShell or in bash 
 
 ```
-python vjudge_problem_extractor.py
+python main.py
 ```
 
 ### How to download Contest as Html File?
